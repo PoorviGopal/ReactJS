@@ -1,4 +1,3 @@
-
 1. **What is React state, and why is it used in a component?**
 
 * React state is a built-in feature that allows a component to store and manage data that can change over time.
@@ -7,8 +6,6 @@
 
 2. **How do you initialize state in a React component?**
 
-* State is typically initialized in a class component's constructor using `this.state = { /* initial state data */ };`.
-* In a functional component, you can use the `useState` hook to initialize state.
 * For example :
 ```js
 import React, { useState } from 'react';
