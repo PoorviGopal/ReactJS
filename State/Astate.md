@@ -190,3 +190,8 @@ export default ChildComponent;
 * State is typically managed in parent components and passed down to child components via props.
 * This approach makes it easier to understand and predict how data changes propagate through the application, which is fundamental for maintaining a clear and maintainable codebase in React.
 
+## Author
+
+- [Poorvi Gopal](https://github.com/PoorviGopal)
+- Email: poorviadt@gmail.com
+
